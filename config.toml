@@ -177,14 +177,13 @@ theme = "LoveIt"
     # LoveIt 更改 | 0.2.0 评论系统设置
     [params.page.comment]
       enable = true
-      # Gitalk 评论系统设置
-      [params.page.comment.gitalk]
-        # LoveIt 新增 | 0.1.1
+      [params.page.comment.utterances]
         enable = true
-        owner = "bithaolee"
-        repo = "bithaolee.github.io"
-        clientId = "a0b51462e91d726b83c0"
-        clientSecret = "2be780a43d4226879b93d87dc5d221d69cca8269"
+        repo = "bithaolee/bithaolee.github.io"
+        issueTerm = "pathname"
+        label = "comment"
+        lightTheme = "github-light"
+        darkTheme = "github-dark"
     # LoveIt 更改 | 0.2.10 页面 SEO 配置
     [params.page.seo]
       # 图片 URL
