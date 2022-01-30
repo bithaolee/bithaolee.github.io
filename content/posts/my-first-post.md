@@ -1,7 +1,11 @@
 ---
-title: "My First Post"
+title: "免费博客系统搭建好了"
 date: 2022-01-27T16:45:26+08:00
-draft: true
+draft: false
 ---
 
-hello world
+免费博客系统搭建好了，这个主题也挺不错的。
+
+以前在VPS上搭建过，维护起来很麻烦，还费钱，后面都中断了，Github最好的地方就是免费，也适合开发者，Github Action 非常方便，自动构建部署，太方便了。
+
+后续将分享个人对技术，市场的一些思考。
